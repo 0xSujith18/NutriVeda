@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Debug Test</title>
+</head>
+<body>
+    <h1>Debug Test</h1>
+    <p>If you can see this, the server is working.</p>
+    <script>
+        console.log('Debug page loaded');
+        fetch('http://localhost:5000/api/foods')
+            .then(response => {
+                console.log('Backend response:', response.status);
+                return response.json();
+            })
+            .then(data => console.log('Backend data:', data))
+            .catch(error => console.error('Backend error:', error));
+    </script>
+</body>
+</html>

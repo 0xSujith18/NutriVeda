@@ -1,0 +1,501 @@
+Item,Category,Calories_per_100g,Protein_g,Carbs_g,Fat_g,Taste_Rasa,Virya,Vipaka,Dosha_Effects
+Rice (white),grains,133.2,2.67,29.09,0.45,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Rice (brown),grains,109.7,2.55,25.18,0.98,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Wheat (atta),grains,319.3,13.77,70,2.42,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Jowar (sorghum),grains,333,8.81,64.55,3.17,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Bajra (pearl millet),grains,342.7,11.89,63.35,4.51,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Ragi (finger millet),grains,352,7.17,72.29,1.35,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Barley,grains,344.4,12.61,67.96,2.36,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Chickpea (kabuli),legumes,353.1,18.56,58.8,6.78,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Chana dal,legumes,359.8,19.22,62.96,4.12,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Toor dal (arhar),legumes,353.7,18.55,53.38,2.84,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Moong dal,legumes,359.8,24.33,57.6,1.37,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Urad dal,legumes,321.3,23.56,56.4,1.72,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Kidney bean (rajma),legumes,338.7,20.61,61.17,0.76,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Black gram,legumes,329.5,23.08,59.46,1.6,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Milk (cow),dairy,57.5,3.12,5.17,3.53,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Curd (yogurt),dairy,59.5,3.45,4.15,3.02,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Paneer,dairy,275.8,20.29,1.16,22.26,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Ghee,dairy,916.3,0,0.18,110.77,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Buttermilk (chaas),dairy,360.4,13.05,56.47,5.29,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Apple,fruit,52.2,0.27,14.08,0,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Banana (ripe),fruit,88,1.14,25.04,0.25,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Mango (ripe),fruit,57.6,0.75,15.82,0.43,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Guava,fruit,66.2,2.71,14.08,1.1,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Papaya,fruit,41.5,0.47,10.74,0.15,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Orange,fruit,43.6,0.93,9,0.08,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Pineapple,fruit,46.5,0.46,12.73,0.02,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Pomegranate,fruit,82.3,1.75,21.15,1.22,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Lychee,fruit,66.8,0.79,15.04,0.4,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Custard apple,fruit,94.3,1.68,22.73,0.63,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Spinach (palak),vegetable,23,2.63,4.17,0.48,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Fenugreek (methi),vegetable,50.9,4.08,8.8,0.46,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Mustard greens (sarson),vegetable,27.8,3.41,4.2,0.64,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Bottle gourd (lauki),vegetable,14.1,0.55,2.62,0.21,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Bitter gourd (karela),vegetable,16.1,1.05,3.54,0.35,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Okra (bhindi),vegetable,31.7,1.85,7.91,0.08,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Brinjal (eggplant),vegetable,25.3,1.13,5.2,0.22,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Tomato,vegetable,18.2,0.98,3.28,0.07,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Carrot,vegetable,42.1,0.93,10.15,0.23,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Potato,vegetable,74.4,2.04,17.3,0.03,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Turmeric (haldi),spice,341.1,10.07,62.3,3.45,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Cumin (jeera),spice,356.7,18.92,47.27,21.02,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Coriander (dhaniya),spice,24.1,2.17,4.11,0.69,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Mustard seed,spice,501.8,24.53,26.6,34.13,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Fenugreek seed,spice,321.8,23.63,58.96,6.77,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Asafoetida (hing),spice,320.2,0.15,0,0.27,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Black pepper,spice,263,9.69,59.89,3.41,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Almond,nuts_seeds,572.5,22.41,22.21,49.65,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Cashew,nuts_seeds,529.6,15.99,29.39,46.53,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Peanut (groundnut),nuts_seeds,573.1,23.23,16.27,50.53,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Sesame seed (til),nuts_seeds,547.7,17.92,23.58,45.72,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Flaxseed,nuts_seeds,543.6,19.12,30.78,45.31,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Mustard oil,oil,823.1,0,0.26,103.6,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Coconut oil,oil,915,0.39,0.29,107.95,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Groundnut oil,oil,926.2,0.07,0,105.31,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Sesame oil,oil,849.8,0,0,100.57,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Samosa,snack,292.3,5.1,32.28,12.42,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Pakora,snack,263.6,7.61,30.12,12.94,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Idli,snack,55.9,2.53,11.67,0.42,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Dosa,snack,168.4,4.17,30.47,3.76,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Poha,snack,116.8,2.64,26.89,0.39,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Upma,snack,151.7,4.46,27.82,6.05,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Paratha (plain),snack,282,7.3,43.72,9.54,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Chapati,snack,119.7,3.72,18.49,1.92,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Gulab jamun,sweet,342.9,6.5,36.35,11.59,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Jalebi,sweet,478.5,2.36,71.86,18.98,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Ladoo (besan),sweet,410.1,6.97,40.28,23.21,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Kheer (rice pudding),sweet,138.2,2.88,21.96,4.5,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Tea (chai),beverage,1,0.11,0.82,0,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Coffee,beverage,2.1,0.1,0,0.05,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Lassi (sweet),beverage,121.2,3.33,15.06,4.87,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Tender coconut water,beverage,19.1,0.77,4.49,0.08,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Lemon water,beverage,5.5,0,1.22,0.06,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Rice (scented),fruit,575,24.51,15.9,47.5,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Rice (sela),fruit,91.2,1.5,23.49,0.53,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Wheat flour (sifted),fruit,60.6,2.46,12.8,0.46,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Black chickpea (kala chana),fruit,55.6,2.29,12.75,0.46,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Green mango (unripe),fruit,27,2.93,5.34,0.64,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Tamarind,fruit,568.1,17.91,29.81,47.28,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Raw banana,fruit,346.7,25.56,64.7,0.8,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Sweet potato,vegetable,79.6,1.95,17.33,0.09,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Yam (suran),vegetable,569.7,27.03,15.31,56.41,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Drumstick (moringa),fruit,18,0.58,4.28,0.28,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Breadfruit,fruit,597.1,22.27,21.58,46.77,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Watermelon,fruit,365.4,17.97,64.57,5.94,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Muskmelon,fruit,847.5,0,0.21,96.05,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Bitter gourd (small),vegetable,17.3,0.92,4.02,0.15,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Ridge gourd (turai),vegetable,48.8,0.52,11.87,0,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Pointed gourd (parwal),vegetable,58.8,3.44,4.86,3.64,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Snake gourd (chichinda),vegetable,135.6,2.57,27.97,0.2,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Colocasia (arbi),fruit,346.7,24.42,59.12,1.51,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Beetroot,vegetable,96.4,1.57,22.85,0.64,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Cabbage,vegetable,338.3,12.78,72.97,2.5,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Cauliflower,vegetable,355.7,11.73,73.11,2.38,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Green peas,fruit,346.4,24.77,65.49,6.06,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Snow peas,fruit,14.6,0.62,4.49,0.12,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Broad bean,fruit,253.9,17.42,0.14,20.03,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Lotus stem (kamal kakdi),vegetable,63.5,0.82,17.35,0.59,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Saffron,fruit,377.1,20.03,56.77,4.65,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Star anise,fruit,4.7,0.28,1.89,0,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Cardamom,fruit,60.3,0.94,16.88,0.52,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Clove,fruit,86.5,1.33,23.01,0.6,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Nutmeg,fruit,47.9,4.62,7.57,0.59,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Mango pickle,fruit,324.9,23.95,60.48,5.9,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Lemon pickle,fruit,48,0.43,14.28,0.13,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Amla (Indian gooseberry),fruit,140.1,2.72,29.98,0.31,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Jamun (black plum),fruit,19.9,1.08,3.78,0.3,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Chikoo (sapota),fruit,53.7,0.44,13.19,0.27,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Gooseberry,fruit,279,15.73,0.61,17.83,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Kokum,fruit,18.7,0.77,4.45,0.21,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Drumstick leaves,fruit,18.4,0.86,3.15,0.19,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Curry leaves,fruit,43.8,0.5,9.64,0.29,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Betel leaf (paan),vegetable,56.1,3.37,5.18,3.08,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+South Indian Milk (cow),dairy,58.5,2.93,4.97,3.52,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Punjabi Tomato,vegetable,17.1,0.95,3.63,0.12,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Bengali Spinach (palak),vegetable,22.9,2.66,3.32,0.28,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Assamese Black gram,legumes,374.5,22.06,53.65,1.52,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Hyderabadi Urad dal,legumes,345.1,24.56,60.14,1.68,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+South Indian Samosa,snack,255.1,5.72,30.49,11.74,Mixed,Heating,Pungent,Increases Kapha and Pitta
+North Indian Jowar (sorghum),grains,304.1,11.54,79.11,3.24,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Punjabi Custard apple,fruit,96.7,1.43,27.25,0.71,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Hyderabadi Ladoo (besan),sweet,427.2,6.46,45.18,25.36,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Assamese Jowar (sorghum),grains,316.6,9.22,69.21,3.05,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Assamese Pomegranate,fruit,90,1.82,18.99,1.35,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Punjabi Sesame oil,oil,887.4,0,0.76,103.77,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Hyderabadi Dosa,snack,159.3,4.33,25.58,3.25,Mixed,Heating,Pungent,Increases Kapha and Pitta
+South Indian Tomato,vegetable,18.8,1.09,3.2,0.26,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Maharashtrian Mango (ripe),fruit,58,0.75,14.47,0.31,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Gujarati Asafoetida (hing),spice,320.8,0,0.14,0,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Punjabi Banana (ripe),fruit,87.9,1.01,22.2,0.38,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+North Indian Asafoetida (hing),spice,328,0,0.05,0.08,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Maharashtrian Urad dal,legumes,318,26.09,55.69,1.66,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Rajasthani Kidney bean (rajma),legumes,320.3,20.53,54.14,0.8,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Hyderabadi Black pepper,spice,258.3,9.65,66.45,2.92,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+South Indian Okra (bhindi),vegetable,32.9,1.72,7.17,0.2,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Assamese Poha,snack,124.4,2.52,29.69,0.24,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Maharashtrian Curd (yogurt),dairy,63.5,3.18,4.96,3.63,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Assamese Moong dal,legumes,304.1,22.47,60.01,1.38,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Hyderabadi Potato,vegetable,78.4,1.9,17.09,0.08,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Hyderabadi Cashew,nuts_seeds,585.3,18.57,30.81,42.63,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+North Indian Pineapple,fruit,48.8,0.46,13.31,0.06,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Punjabi Ragi (finger millet),grains,332.8,8.51,75.76,1.47,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+North Indian Potato,vegetable,81.6,1.93,14.92,0,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+North Indian Fenugreek (methi),vegetable,44.4,4.28,8.11,0.77,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Gujarati Sesame seed (til),nuts_seeds,582.4,17.39,24.67,42.01,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Rajasthani Poha,snack,131.5,2.76,25.52,0.41,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Rajasthani Mango (ripe),fruit,61,0.76,15.57,0.63,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Punjabi Almond,nuts_seeds,584.3,21.62,21,46.93,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+North Indian Brinjal (eggplant),vegetable,26,0.91,6.04,0.15,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Assamese Guava,fruit,69.6,2.67,14.87,0.95,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Bengali Bottle gourd (lauki),vegetable,13.8,0.5,3.18,0.24,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Maharashtrian Upma,snack,164,4.17,28.41,6.24,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Assamese Brinjal (eggplant),vegetable,25.5,1.19,5.61,0.08,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Rajasthani Spinach (palak),vegetable,21,3.25,3.93,0.39,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Punjabi Chickpea (kabuli),legumes,369.1,17.29,69.95,6.05,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Rajasthani Bajra (pearl millet),grains,363,12.27,68.93,5.08,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Gujarati Coconut oil,oil,856.7,0.05,0.94,109.42,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Punjabi Chana dal,legumes,388.7,20.14,56.44,4.46,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Punjabi Coriander (dhaniya),spice,23.1,2.28,2.85,0.65,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Maharashtrian Jalebi,sweet,446.4,2.41,65.75,15.91,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Bengali Poha,snack,135.4,2.62,25.83,0.17,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Bengali Okra (bhindi),vegetable,32.4,2.15,7.37,0.05,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Assamese Bottle gourd (lauki),vegetable,13.8,0.57,2.05,0.19,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Gujarati Lassi (sweet),beverage,118.6,3.69,16.66,5.39,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Hyderabadi Samosa,snack,258.5,5.47,35.79,14.06,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Rajasthani Coconut oil,oil,892.6,0,0.1,98.99,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Kashmiri Kheer (rice pudding),sweet,136,3.06,19.96,4.81,Sweet,Heating,Sweet,Increases Kapha and Pitta
+South Indian Urad dal,legumes,334.6,25.21,57.11,1.77,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Bengali Milk (cow),dairy,52,3.48,5.62,2.82,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Maharashtrian Chana dal,legumes,353.8,20.38,54.93,4.25,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Hyderabadi Sesame seed (til),nuts_seeds,541.2,20.18,24.82,54.12,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Assamese Upma,snack,163.7,4.09,26.15,5.9,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Assamese Bitter gourd (karela),vegetable,16,1.07,3.88,0.16,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+North Indian Rice (brown),grains,114.9,2.69,22.5,1.02,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Maharashtrian Potato,vegetable,72.8,2.1,17.6,0.07,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Kashmiri Mango (ripe),fruit,61,0.67,15.83,0.38,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Gujarati Rice (white),grains,126.6,2.93,26.82,0.16,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Bengali Ladoo (besan),sweet,396.5,7.34,46.16,28.07,Sweet,Heating,Sweet,Increases Kapha and Pitta
+North Indian Ladoo (besan),sweet,385.2,7.95,50.63,24.83,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Assamese Turmeric (haldi),spice,303.5,10.01,66.95,3.55,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Bengali Pomegranate,fruit,83.5,1.72,18.59,1.19,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Bengali Peanut (groundnut),nuts_seeds,575.7,22.27,14.8,51.76,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Assamese Tender coconut water,beverage,19.2,0.68,3.71,0.23,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Hyderabadi Rice (white),grains,126.5,2.53,28.33,0.2,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Kashmiri Mustard seed,spice,518.4,22.55,29.84,37.4,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+North Indian Wheat (atta),grains,331.2,14.24,79.19,2.68,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Gujarati Cashew,nuts_seeds,502.1,16.34,29.07,43.98,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+South Indian Mustard greens (sarson),vegetable,27.7,2.73,4.79,0.62,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Hyderabadi Mustard greens (sarson),vegetable,26.2,2.57,4.24,0.56,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+North Indian Moong dal,legumes,330.1,26.02,54.7,1.66,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+North Indian Gulab jamun,sweet,317.6,6.09,37.94,12.59,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Bengali Lassi (sweet),beverage,116.5,3.53,17.3,4.97,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Kashmiri Paneer,dairy,280.2,17.27,1.18,23.38,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Bengali Lemon water,beverage,4.8,0.28,1.65,0,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Assamese Okra (bhindi),vegetable,34,2.05,7.81,0.04,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Punjabi Samosa,snack,252.5,5.88,30.86,14.61,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Punjabi Tender coconut water,beverage,19.2,0.57,3.89,0.26,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Maharashtrian Cumin (jeera),spice,385.5,19.34,46.41,23.02,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Kashmiri Peanut (groundnut),nuts_seeds,565,22.37,16.52,49.92,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Kashmiri Tea (chai),beverage,1,0,0,0.11,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Punjabi Curd (yogurt),dairy,60.9,3.69,4.71,3.31,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+North Indian Spinach (palak),vegetable,24.1,2.78,3.65,0.35,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+South Indian Asafoetida (hing),spice,313,0,0.11,0,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Punjabi Lemon water,beverage,5.3,0.01,1.21,0,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+South Indian Spinach (palak),vegetable,24.7,2.95,4.12,0.25,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+South Indian Toor dal (arhar),legumes,354.7,23.57,58.29,3.01,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Assamese Toor dal (arhar),legumes,340.9,24.48,66,2.73,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Gujarati Mustard greens (sarson),vegetable,26.4,3.24,5.49,0.65,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Punjabi Gulab jamun,sweet,303.5,5.86,36.77,11.23,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Bengali Tender coconut water,beverage,18,0.62,3.68,0.22,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Punjabi Paratha (plain),snack,323.3,6.9,47.66,9.85,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Maharashtrian Paratha (plain),snack,299.3,7.9,41.97,10.27,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Maharashtrian Kidney bean (rajma),legumes,335.8,24.95,61.04,1.05,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Maharashtrian Almond,nuts_seeds,560.5,20.3,20.79,47.96,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Kashmiri Groundnut oil,oil,855.8,0.12,0.71,96,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+North Indian Barley,grains,339.3,12.97,70.58,2.4,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Maharashtrian Chickpea (kabuli),legumes,367.7,16.7,66.66,6.75,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Punjabi Bottle gourd (lauki),vegetable,13.6,0.56,3.54,0.23,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Assamese Pineapple,fruit,51.6,0.7,12.86,0.02,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Bengali Dosa,snack,156.4,4.14,26.95,4.05,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Bengali Samosa,snack,255.2,6.11,30.97,15.16,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Kashmiri Tomato,vegetable,20.3,0.85,3.66,0.3,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+North Indian Bottle gourd (lauki),vegetable,14.5,0.78,3.69,0.16,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Assamese Idli,snack,59.7,2.61,12.8,0.45,Mixed,Heating,Pungent,Increases Kapha and Pitta
+South Indian Kidney bean (rajma),legumes,350.8,26.25,64.98,0.86,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+South Indian Tender coconut water,beverage,18.8,0.71,4.3,0.12,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Punjabi Urad dal,legumes,353.4,24.21,58.1,1.74,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Maharashtrian Guava,fruit,68.6,2.61,12.86,1.07,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Kashmiri Gulab jamun,sweet,320,7.04,39.26,12.18,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Maharashtrian Custard apple,fruit,95.2,1.58,22.87,0.63,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Bengali Chickpea (kabuli),legumes,375.1,19.28,59.37,6.08,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+South Indian Sesame seed (til),nuts_seeds,603.8,16.25,23.69,47.26,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Gujarati Flaxseed,nuts_seeds,565.9,16.07,27.93,43.31,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Gujarati Poha,snack,140.2,2.59,27.07,0.49,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Assamese Samosa,snack,243,4.94,31.82,13.51,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Bengali Gulab jamun,sweet,294.2,6.34,40.59,11.53,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Gujarati Pineapple,fruit,46.8,0.59,13.51,0.09,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+South Indian Custard apple,fruit,102.7,1.28,20.89,0.53,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+South Indian Coriander (dhaniya),spice,22.9,2.14,3.58,0.54,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Hyderabadi Barley,grains,331.8,13.94,72.64,2.48,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Assamese Chapati,snack,111.9,3.73,20.68,1.86,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Bengali Coffee,beverage,2.1,0.23,0.1,0.07,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Assamese Chickpea (kabuli),legumes,362.4,21.19,58.52,6.76,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Bengali Moong dal,legumes,346.3,21.25,58.45,1.33,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Hyderabadi Chana dal,legumes,375.1,19.9,58.39,3.9,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+North Indian Coconut oil,oil,871.8,0,0,105.32,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Hyderabadi Bottle gourd (lauki),vegetable,14.6,0.64,2.92,0.2,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Hyderabadi Ragi (finger millet),grains,327.9,6.62,78.49,1.59,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Maharashtrian Moong dal,legumes,343.2,24.05,58.73,1.2,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Rajasthani Tea (chai),beverage,1,0.03,0,0,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Punjabi Okra (bhindi),vegetable,36,2,7.21,0.26,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Maharashtrian Okra (bhindi),vegetable,35.3,2.04,7.53,0.14,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Gujarati Paneer,dairy,274.3,18.88,1.65,21.72,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Hyderabadi Poha,snack,136.8,2.49,30.21,0.32,Mixed,Heating,Pungent,Increases Kapha and Pitta
+North Indian Kidney bean (rajma),legumes,367.6,22.68,66.25,0.82,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Punjabi Lassi (sweet),beverage,116.1,3.36,14.71,5.15,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Gujarati Ladoo (besan),sweet,441.2,6.68,49.93,28.75,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Rajasthani Paneer,dairy,287.9,18.94,1.22,20.97,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Gujarati Peanut (groundnut),nuts_seeds,584.4,23.69,15.85,43.45,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Gujarati Tender coconut water,beverage,19.4,0.76,3.46,0.36,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+South Indian Coffee,beverage,1.9,0,0.11,0.1,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Gujarati Lemon water,beverage,5.4,0.05,1.84,0,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Bengali Black gram,legumes,338.1,23.56,58.19,1.33,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+North Indian Okra (bhindi),vegetable,35.4,2.11,7.19,0.24,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Gujarati Banana (ripe),fruit,91.2,1.13,22.24,0.23,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Hyderabadi Carrot,vegetable,40.9,1.02,10.33,0.16,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Rajasthani Lychee,fruit,68.5,0.52,18.17,0.23,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Gujarati Lychee,fruit,64.8,0.69,15.68,0.52,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Kashmiri Ladoo (besan),sweet,419.9,7.19,49.86,25.83,Sweet,Heating,Sweet,Increases Kapha and Pitta
+South Indian Bitter gourd (karela),vegetable,17.1,0.87,4.5,0.15,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Rajasthani Rice (white),grains,119.9,2.61,30.52,0.39,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Maharashtrian Lemon water,beverage,4.9,0.07,1.14,0.21,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Bengali Toor dal (arhar),legumes,356.7,22.76,61.59,2.85,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Hyderabadi Peanut (groundnut),nuts_seeds,559.7,25.39,16.03,49.07,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Bengali Pakora,snack,279.8,7.03,31.32,13.92,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Gujarati Ragi (finger millet),grains,329.3,6.13,75.96,1.54,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+South Indian Cashew,nuts_seeds,580.6,13.98,33.98,43.47,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Assamese Almond,nuts_seeds,611.1,19.44,22.39,46.22,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Hyderabadi Groundnut oil,oil,856.4,0.19,0,101.52,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Bengali Mango (ripe),fruit,62.6,0.85,15.14,0.44,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+South Indian Groundnut oil,oil,990.2,0,0.1,107.35,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Rajasthani Papaya,fruit,45.4,0.62,11.42,0.19,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Punjabi Groundnut oil,oil,956.2,0,0.15,94.72,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Bengali Brinjal (eggplant),vegetable,24.9,1.03,6.16,0.24,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Maharashtrian Black gram,legumes,368.5,22.8,55.18,1.6,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Kashmiri Bajra (pearl millet),grains,382.5,10.46,69.4,5.25,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Punjabi Spinach (palak),vegetable,22.7,3.22,3.52,0.41,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Punjabi Cumin (jeera),spice,371.8,17.82,41.29,20.05,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Maharashtrian Pineapple,fruit,54,0.42,12.23,0,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Gujarati Fenugreek seed,spice,312.7,20.57,63.71,6.85,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Gujarati Chana dal,legumes,347.6,24.78,63.53,4.4,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Assamese Black pepper,spice,223.1,12.31,58.66,2.92,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Assamese Coconut oil,oil,937.6,0.24,0.69,103.95,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+South Indian Fenugreek seed,spice,332.6,24.57,60.64,6.53,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Gujarati Milk (cow),dairy,60.3,3.18,4.62,3.24,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Hyderabadi Papaya,fruit,39.4,0.49,10.35,0.19,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Hyderabadi Black gram,legumes,344.1,24.45,59.09,1.34,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Rajasthani Pakora,snack,256.6,7.53,28.23,13.78,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Maharashtrian Coriander (dhaniya),spice,23.6,1.94,3.75,0.37,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+North Indian Kheer (rice pudding),sweet,135.8,3.28,18.09,5.15,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Hyderabadi Flaxseed,nuts_seeds,533.5,19.11,29.29,46.23,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Maharashtrian Ragi (finger millet),grains,330.1,7.05,72.53,1.56,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Assamese Rice (white),grains,130.3,2.71,26.82,0.23,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Maharashtrian Cashew,nuts_seeds,514.2,20.75,27.95,41.77,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Rajasthani Chana dal,legumes,347.1,22.5,58.94,4.89,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+North Indian Coriander (dhaniya),spice,22.2,2.15,3.28,0.71,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Maharashtrian Mustard seed,spice,477.8,26.75,29.17,37.25,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Assamese Potato,vegetable,76.3,1.98,17.04,0.09,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Punjabi Paneer,dairy,277.8,21.54,0.92,18.81,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Maharashtrian Sesame oil,oil,880.1,0.26,0,111.47,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Maharashtrian Turmeric (haldi),spice,338.2,9.27,69.39,3.68,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+South Indian Lemon water,beverage,4.9,0.08,1.01,0,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Gujarati Turmeric (haldi),spice,301.9,8.75,67.24,3.12,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Maharashtrian Lychee,fruit,66.8,0.64,17.34,0.48,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Kashmiri Idli,snack,52.2,2.47,13.1,0.28,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Assamese Custard apple,fruit,101.9,1.45,22.03,0.59,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Bengali Paratha (plain),snack,308.4,7.55,46.45,9.36,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Gujarati Moong dal,legumes,349.9,21.29,57.61,1.31,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Hyderabadi Kheer (rice pudding),sweet,134.9,3.52,21.31,5.21,Sweet,Heating,Sweet,Increases Kapha and Pitta
+North Indian Fenugreek seed,spice,305.4,22.42,62.22,6.46,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+South Indian Apple,fruit,58,0.34,14.16,0.17,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Hyderabadi Paratha (plain),snack,302,7.41,46.91,10.67,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Kashmiri Toor dal (arhar),legumes,336.2,19.66,51.61,2.9,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Hyderabadi Sesame oil,oil,835.2,0,0.19,117.45,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+North Indian Rice (white),grains,130,2.88,28.14,0.29,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Assamese Papaya,fruit,45,0.47,11.18,0.33,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+South Indian Upma,snack,152.7,4.86,26.72,5.4,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Kashmiri Coriander (dhaniya),spice,23.6,1.95,3.71,0.5,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Maharashtrian Ladoo (besan),sweet,453.3,7.27,49.92,26.43,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Kashmiri Lemon water,beverage,5.3,0.16,1.31,0,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Gujarati Dosa,snack,159.1,4.29,26.01,3.55,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Gujarati Bottle gourd (lauki),vegetable,14,0.65,3.36,0.25,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+North Indian Idli,snack,58.2,2.02,11.51,0.39,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Punjabi Carrot,vegetable,38.5,0.96,10.92,0.32,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Rajasthani Brinjal (eggplant),vegetable,24.7,1.15,6.07,0.17,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Assamese Coriander (dhaniya),spice,22.3,2.05,3.51,0.52,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Bengali Flaxseed,nuts_seeds,538.3,18.3,29.66,45.72,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+North Indian Custard apple,fruit,98.5,1.23,19.48,0.69,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Assamese Fenugreek seed,spice,300.9,22.59,53.93,5.59,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Hyderabadi Wheat (atta),grains,335.9,14,69.51,2.05,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Kashmiri Sesame seed (til),nuts_seeds,557.4,18.25,21.41,50.34,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Assamese Sesame oil,oil,883.3,0.06,0.06,93.19,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Hyderabadi Tender coconut water,beverage,20.1,0.68,3.69,0.11,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Kashmiri Spinach (palak),vegetable,22.5,2.69,3.51,0.57,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Gujarati Spinach (palak),vegetable,21.4,2.53,4.34,0.38,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Kashmiri Pakora,snack,261,7.58,28.91,15.79,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Maharashtrian Jowar (sorghum),grains,340.2,9.99,81.32,3.16,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Maharashtrian Asafoetida (hing),spice,331.9,0.03,0.65,0.16,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Kashmiri Guava,fruit,68.1,2.44,14.39,0.93,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Hyderabadi Paneer,dairy,291.7,18.5,1.02,21.07,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+South Indian Lassi (sweet),beverage,111.9,3.23,16.08,4.77,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Hyderabadi Mustard oil,oil,837.7,0.05,0.59,105.03,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Bengali Upma,snack,165.9,4.23,24.7,6.3,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Gujarati Barley,grains,348.3,12.25,78.82,2.39,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Rajasthani Sesame seed (til),nuts_seeds,586.1,20.77,22.59,52.93,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Kashmiri Custard apple,fruit,94.3,1.43,25.11,0.65,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Rajasthani Mustard seed,spice,521.7,28.34,27.48,34.07,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Gujarati Sesame oil,oil,837.8,0,1.03,92.28,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Kashmiri Moong dal,legumes,343.2,23.47,59.07,1.48,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Assamese Wheat (atta),grains,341.1,12.58,71.28,2.55,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Rajasthani Barley,grains,349.6,14.11,75.15,2.42,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+South Indian Ragi (finger millet),grains,338.9,7.99,72.78,1.36,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Hyderabadi Milk (cow),dairy,61.2,3.03,4.74,3.44,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Rajasthani Bitter gourd (karela),vegetable,18.1,1,4.15,0.37,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Hyderabadi Guava,fruit,68.8,3.14,14.48,0.82,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+North Indian Cumin (jeera),spice,389.1,18.34,47.62,23.35,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Gujarati Jowar (sorghum),grains,326.7,9.38,71.1,3.1,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Maharashtrian Sesame seed (til),nuts_seeds,556.4,18.53,25.85,51.07,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+North Indian Pomegranate,fruit,78,1.76,20.36,1.14,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Hyderabadi Turmeric (haldi),spice,309.9,9.71,63.94,3.45,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Hyderabadi Curd (yogurt),dairy,60.6,3.62,4.26,3.2,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Rajasthani Ragi (finger millet),grains,339.8,7.08,79.46,1.46,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Maharashtrian Lassi (sweet),beverage,121.3,3.76,13.72,4.38,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+North Indian Peanut (groundnut),nuts_seeds,523.7,28.41,15.57,58.01,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Rajasthani Ladoo (besan),sweet,417.9,7.1,54.63,28.51,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Maharashtrian Rice (brown),grains,122.4,2.85,24.41,0.96,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Gujarati Tea (chai),beverage,1,0.04,0,0,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Kashmiri Lassi (sweet),beverage,119,3.37,15.63,5.33,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Kashmiri Bottle gourd (lauki),vegetable,14.1,0.75,2.83,0.18,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Kashmiri Jowar (sorghum),grains,317.2,8.85,71.64,3.27,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Bengali Mustard seed,spice,546.4,27.42,26.37,40.9,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Gujarati Almond,nuts_seeds,614.3,22.19,21.31,46.55,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Assamese Tomato,vegetable,17.7,1.01,4.84,0.35,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Assamese Rice (brown),grains,108.3,2.37,23.19,0.72,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Maharashtrian Mustard greens (sarson),vegetable,27.4,2.87,4.47,0.54,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Assamese Gulab jamun,sweet,318,5.74,37.19,9.59,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Kashmiri Mustard greens (sarson),vegetable,27,3.31,5.53,0.65,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Punjabi Potato,vegetable,74.7,2.08,15.98,0.13,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Punjabi Coconut oil,oil,926.2,0.12,0,98.57,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Hyderabadi Cumin (jeera),spice,358.5,16.62,43.6,22.87,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Assamese Lemon water,beverage,5.2,0.02,2.05,0,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Maharashtrian Black pepper,spice,254.7,9.78,54.69,3.5,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Rajasthani Lemon water,beverage,5.2,0.07,1.33,0.05,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Kashmiri Almond,nuts_seeds,533.8,20.3,22.63,45.52,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Gujarati Brinjal (eggplant),vegetable,25.4,0.86,6.23,0.2,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Punjabi Bitter gourd (karela),vegetable,15.6,1.12,3.63,0.12,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Punjabi Pineapple,fruit,50.5,0.61,12.21,0.11,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Gujarati Chapati,snack,112.4,3.8,20.21,1.75,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Hyderabadi Coffee,beverage,1.9,0.11,0,0,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+North Indian Carrot,vegetable,41.9,0.99,8.58,0.1,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Rajasthani Fenugreek (methi),vegetable,50.5,5.12,8.11,0.53,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Gujarati Papaya,fruit,42.6,0.64,10.57,0.22,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+South Indian Black gram,legumes,332.8,20.32,56.41,1.67,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Kashmiri Carrot,vegetable,41.7,0.87,9.82,0.04,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Kashmiri Chapati,snack,114.9,3.58,19.78,2.2,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Bengali Asafoetida (hing),spice,324.8,0,0,0.11,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+North Indian Chapati,snack,110.6,3.19,21.1,1.72,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Bengali Barley,grains,387.2,13.58,71.04,2.51,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Hyderabadi Banana (ripe),fruit,89.3,1.19,23.67,0.22,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+North Indian Turmeric (haldi),spice,302,10.5,65.75,3.21,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Assamese Spinach (palak),vegetable,21.9,3,4.63,0.29,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Gujarati Idli,snack,58.1,2.67,12.14,0.45,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Gujarati Samosa,snack,248.1,6.21,30.65,14.97,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Hyderabadi Chickpea (kabuli),legumes,385.6,22.94,63.12,6.14,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Punjabi Kidney bean (rajma),legumes,336.2,23.32,61.22,0.77,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Gujarati Custard apple,fruit,94.8,1.55,21.61,0.71,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Bengali Mustard greens (sarson),vegetable,28.8,2.87,3.64,0.64,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+North Indian Lemon water,beverage,5.3,0.1,0.8,0,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+South Indian Mango (ripe),fruit,62.5,0.85,14.78,0.36,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Gujarati Paratha (plain),snack,294.1,6.95,49.36,9.77,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Punjabi Bajra (pearl millet),grains,383,13.01,71.01,4.85,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Gujarati Carrot,vegetable,41.8,0.9,9.46,0.23,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+North Indian Poha,snack,122.3,2.85,27.22,0.32,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Gujarati Fenugreek (methi),vegetable,49.7,4.31,8.39,0.55,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Maharashtrian Pomegranate,fruit,86.6,1.52,19.14,1.39,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Assamese Milk (cow),dairy,57,3.03,5.26,3.34,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Gujarati Guava,fruit,69.2,2.7,14.53,1.11,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Kashmiri Curd (yogurt),dairy,62.2,3.43,5.04,3.74,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Kashmiri Tender coconut water,beverage,18.9,0.6,4.25,0.19,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Hyderabadi Mustard seed,spice,452.8,27.87,27.2,35.97,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Gujarati Wheat (atta),grains,332.4,13.4,75.06,2.42,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Bengali Ragi (finger millet),grains,336.4,7.15,75.19,1.56,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Assamese Paratha (plain),snack,286,8.15,43.55,10.57,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Hyderabadi Orange,fruit,43.8,1.08,8.88,0.07,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Kashmiri Urad dal,legumes,346.7,24.39,60.78,1.42,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Rajasthani Fenugreek seed,spice,306,21.04,61.31,7.17,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Maharashtrian Fenugreek seed,spice,321.3,22.69,58.24,6.92,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Gujarati Jalebi,sweet,429.1,2.55,74.1,18.63,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Rajasthani Urad dal,legumes,350.3,27,48.59,1.68,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Maharashtrian Milk (cow),dairy,58,2.73,5.26,3.62,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+South Indian Kheer (rice pudding),sweet,139,3.44,21.93,5.46,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Kashmiri Jalebi,sweet,486.9,2.65,70.32,15.98,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Punjabi Barley,grains,349.6,11.66,82.51,2.27,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+South Indian Curd (yogurt),dairy,61.4,3.65,4.72,3.69,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Assamese Cumin (jeera),spice,363.3,18.08,42.23,20.24,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+North Indian Groundnut oil,oil,857,0,0,95.15,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+North Indian Upma,snack,146.9,4.47,24.56,6,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Kashmiri Banana (ripe),fruit,89.4,0.95,22.57,0.22,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Maharashtrian Brinjal (eggplant),vegetable,25.4,1.13,5.06,0.21,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Punjabi Flaxseed,nuts_seeds,529.7,19.28,29.27,39.98,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Bengali Kheer (rice pudding),sweet,137.8,3,21.29,5.01,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Rajasthani Sesame oil,oil,968,0,0,89.4,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Assamese Dosa,snack,152.9,3.84,27.43,3.73,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Rajasthani Chapati,snack,101.3,3.86,19.42,1.82,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Maharashtrian Tender coconut water,beverage,20.5,0.79,3.57,0.11,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Bengali Bajra (pearl millet),grains,322.2,10.93,66.15,4.65,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Kashmiri Coffee,beverage,2,0.11,0,0,Sweet/Astringent,Cooling/Heating,Sweet/Pungent,Varies
+Bengali Rice (brown),grains,111.9,2.69,21.5,1.04,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Bengali Groundnut oil,oil,879.6,0,0.35,101.63,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Rajasthani Okra (bhindi),vegetable,34.6,1.94,7.19,0.24,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+North Indian Mustard oil,oil,833.4,0.01,0,98.54,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+Hyderabadi Bajra (pearl millet),grains,358.7,9.85,64.79,5.03,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Bengali Idli,snack,58.5,2.2,13.13,0.31,Mixed,Heating,Pungent,Increases Kapha and Pitta
+South Indian Turmeric (haldi),spice,327.1,10.03,64.5,3.71,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Gujarati Chickpea (kabuli),legumes,342.3,20.4,64.66,5.72,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Rajasthani Almond,nuts_seeds,619.3,20.78,21.97,50.81,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Bengali Orange,fruit,42.7,0.98,9.43,0,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+North Indian Papaya,fruit,45.8,0.33,11.68,0.41,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Punjabi Apple,fruit,49.2,0.26,13.07,0.18,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Gujarati Upma,snack,155.6,4.78,29.12,6.26,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Kashmiri Rice (brown),grains,107.9,2.56,20.68,0.82,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Assamese Carrot,vegetable,43,1.06,9.26,0.14,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+North Indian Mango (ripe),fruit,59.9,0.83,14.27,0.44,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Rajasthani Idli,snack,56.6,2.4,12.6,0.4,Mixed,Heating,Pungent,Increases Kapha and Pitta
+Kashmiri Bitter gourd (karela),vegetable,16.6,0.99,3.96,0.16,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Punjabi Turmeric (haldi),spice,308,10.94,69.36,3.23,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Kashmiri Flaxseed,nuts_seeds,552.6,17.81,30.93,43.29,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Punjabi Black gram,legumes,339.2,22.79,50.72,1.38,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Hyderabadi Almond,nuts_seeds,544.4,21.44,23.85,57.69,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Gujarati Potato,vegetable,79.5,2.08,15.16,0.05,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Maharashtrian Wheat (atta),grains,314.1,12.54,71.27,2.42,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+Hyderabadi Fenugreek (methi),vegetable,44.2,4.66,7.56,0.62,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Hyderabadi Pineapple,fruit,55.2,0.41,11.03,0.07,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Bengali Bitter gourd (karela),vegetable,17.9,1.2,3.39,0.25,Bitter/Astringent/Sweet,Cooling/Neutral,Sweet/Pungent,Generally balances Pitta/Kapha
+Kashmiri Cumin (jeera),spice,366.3,17.65,51.21,19.95,Pungent/Bitter/Astringent,Heating,Pungent,Increases Pitta; reduces Kapha
+Bengali Cashew,nuts_seeds,560,18.88,32.17,44.2,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Gujarati Urad dal,legumes,352.3,24.22,58.94,1.56,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Punjabi Papaya,fruit,44.3,0.46,11.25,0.3,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Assamese Paneer,dairy,279.9,18.22,0.31,22.64,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Assamese Cashew,nuts_seeds,528,17.25,29.12,48.12,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Assamese Mustard oil,oil,789.6,0.31,0.53,101.56,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+North Indian Cashew,nuts_seeds,551.5,18.62,31.14,45.88,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+South Indian Mustard oil,oil,908.6,0.01,0,98.94,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
+South Indian Paratha (plain),snack,297.1,8.18,46.6,7.94,Mixed,Heating,Pungent,Increases Kapha and Pitta
+South Indian Ghee,dairy,929.5,0.02,0,97.28,Sweet/Sour,Cooling,Sweet,"Increases Kapha, balances Vata"
+Gujarati Bajra (pearl millet),grains,381.3,12.48,63.89,5.14,Sweet,Cooling,Sweet,"Balances Vata, may increase Kapha"
+North Indian Jalebi,sweet,428.1,2.22,67.37,19.09,Sweet,Heating,Sweet,Increases Kapha and Pitta
+Assamese Peanut (groundnut),nuts_seeds,594,26.86,16.8,50.98,Sweet/Oily,Heating,Sweet,Increases Kapha and Pitta
+Maharashtrian Banana (ripe),fruit,86.1,1.14,24.1,0.38,Sweet/Sour,Cooling/Heating (varies),Sweet/Pungent,Varies by fruit; many increase Kapha slightly
+Kashmiri Kidney bean (rajma),legumes,352.8,25.36,61.27,0.91,Astringent/Sweet,Heating,Pungent,"Increases Pitta, reduces Vata (varies)"
+Gujarati Groundnut oil,oil,882.8,0,0,94.79,Oily/Heating,Heating,Sweet,"Increases Kapha, may increase Pitta"
